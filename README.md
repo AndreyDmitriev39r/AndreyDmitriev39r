@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I am currently learning SASS, Bootstrap and React
+
+- I am building my learning process around [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/), though I am using various sources of information of course
+
+- I am currently working on [this project](https://github.com/DBenMoshe/contrast-ratio-repo) in collaboration with guys from freeCodeCamp community
+
+- At the same time, I am working on bunch of small learning projects and code challenges in order to develop problem solving skills and learn more about various dev tools
+
+- Also, I am helping learners on [freeCodeCamp forum](https://forum.freecodecamp.org/) with their issues, if and when my skills and knowledge allow me to answer their questions properly

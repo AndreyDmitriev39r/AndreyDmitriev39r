@@ -15,12 +15,38 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I am currently learning SASS, Bootstrap and React
+- I am building my learning process around [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/) and it's community, though I am using various resources.
 
-- I am building my learning process around [freeCodeCamp curriculum](https://www.freecodecamp.org/learn/), though I am using various sources of information of course
+- At the same time, I am working on bunch of small learning projects and code challenges in order to develop problem solving skills and learn more about various dev tools.
 
-- I am currently working on [this project](https://github.com/DBenMoshe/contrast-ratio-repo) in collaboration with guys from freeCodeCamp community
+- Also, I am helping learners on [freeCodeCamp forum](https://forum.freecodecamp.org/) with their issues, if and when my skills and knowledge allow me to answer their questions properly.
 
-- At the same time, I am working on bunch of small learning projects and code challenges in order to develop problem solving skills and learn more about various dev tools
+### Currently learning
 
-- Also, I am helping learners on [freeCodeCamp forum](https://forum.freecodecamp.org/) with their issues, if and when my skills and knowledge allow me to answer their questions properly
+- React
+
+  - Context API, useReducer and how both go together
+
+  - building SPA with React Router 6
+
+- Typescript
+
+  - fundamentals by going through TS handbook
+
+  - React + Typescript by building learning projects
+
+- CSS libraries
+
+  - TailwindCSS
+
+  - Bootstrap
+
+- Relational databases
+
+  - PostgresSQL
+
+  - SQLite
+
+- Building API with Node and Express
+
+- Data structures and algorithms
